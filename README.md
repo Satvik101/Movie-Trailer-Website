@@ -23,3 +23,4 @@ python media.py
 ```
 
 Your default browser should launch a new tab displaying the movie trailer website.
+This is a readme file, hope you liked this website:)
